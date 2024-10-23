@@ -1,11 +1,11 @@
 {
-  "name": "ifc-check-cli",
-  "version": "1.0.0",
+  "name": "ifc-checker",
+  "version": "1.0.1",
   "main": "index.js",
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/helenkwok/ifc-check-cli.git"
+    "url": "https://github.com/helenkwok/ifc-checker.git"
   },
   "bin": {
     "check-ifc": "./index.js"
