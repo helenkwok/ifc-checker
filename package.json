@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/helenkwok/ifc-check-cli.git"
+  },
   "bin": {
     "check-ifc": "./index.js"
   },
