@@ -1,4 +1,4 @@
-# IFC Check CLI
+# IFC Checker
 
 This is a CLI tool to verify IFC information requirements
 
