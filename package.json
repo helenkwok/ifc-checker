@@ -1,0 +1,21 @@
+{
+  "name": "ifc-check-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "check-ifc": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Helen Kwok",
+  "license": "MIT",
+  "description": "CLI tool to verify IFC information requirements",
+  "dependencies": {
+    "@inquirer/prompts": "7.0.0",
+    "@thatopen/components": "2.3.11",
+    "three": "0.160.1"
+  }
+}

@@ -1,0 +1,4 @@
+node_modules
+*.ifc
+*.ids
+*.bcf
