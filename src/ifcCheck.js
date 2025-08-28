@@ -47,7 +47,7 @@ export const checkIFC = async () => {
 
     viewpoint.selectionComponents.add(...failingGuids)
     const comment = `${topic.description}: Found ${failingGuids.length} failing`
-    topic.createComment = comment
+    topic.createComment(comment)
 
     console.log(comment)
 
