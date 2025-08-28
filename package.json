@@ -19,7 +19,7 @@
   "description": "CLI tool to verify IFC information requirements",
   "dependencies": {
     "@inquirer/prompts": "7.0.0",
-    "@thatopen/components": "2.3.11",
-    "three": "0.160.1"
+    "@thatopen/components": "^3.1.2",
+    "three": "^0.179.1"
   }
 }
