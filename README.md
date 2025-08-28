@@ -1,6 +1,6 @@
 # IFC Checker
 
-This is a CLI tool to verify IFC information requirements
+This is a CLI tool to verify IFC information requirements using IDS
 
 ## Installation
 
